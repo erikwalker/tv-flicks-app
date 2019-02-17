@@ -36,7 +36,7 @@ Now clicking on the first batman icon gives the following information about the 
 
 ![image](https://user-images.githubusercontent.com/19658505/52917322-06be0b00-32b8-11e9-9cfe-395ecaa3f7f2.png)
 
-## Steps to checknout and run the application:
+## Steps to checkout and run the application:
 • Either fork, clone or checkout the project into your local system and have nodeJS and npm installed 
 • run npm install 
 • run npm start
